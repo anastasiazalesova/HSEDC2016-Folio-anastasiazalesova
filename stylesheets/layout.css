@@ -8,15 +8,11 @@ a {
 }
 
 body {
-  min-width: 768px;
-  font-family: 'PT Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  }
-
-body.posts,
-body.landing {
-  background-color: #FAFAFA;
+  width: 100%;
+  min-width: 768px;
+  background-color: #fafafa;
 }
 
 body.posts .menubar,
