@@ -21,8 +21,7 @@ body.landing.bg {
   background-position: top center;
 }
 
-
-body.landing .menubar {
+body.landing.menubar {
   top: 0;
   left: 0;
   min-width: 768px;
@@ -31,7 +30,7 @@ body.landing .menubar {
   z-index: 1;
 }
 
-body.landing .menubar div {
+body.landing.menubar div {
   max-width: 1440px;
   margin: 0 auto;
   background-color: white;
@@ -210,10 +209,6 @@ body.landing .menubar div {
     background-image: url(../images/mockup/1024.png);
   }
 
-  .landingWrapper {
-    width: 100%;
-  }
-
   .full {
     display: none;
   }
@@ -221,7 +216,6 @@ body.landing .menubar div {
   .compact {
     display: block;
   }
-
 
   .mainSection {
     width: 1179px;
