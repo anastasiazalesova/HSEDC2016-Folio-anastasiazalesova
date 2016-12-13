@@ -17,3 +17,17 @@
   color: white;
   margin-top: 15px;
 }
+
+@media screen and (max-width: 1179px) {
+  .btn {
+    width: 212px;
+    height: 37px;
+    font-size: 12px;
+    line-height: 40px;
+  }
+
+  .link {
+    font-size: 13px;
+    margin-top: 11px;
+  }
+}
