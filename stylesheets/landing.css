@@ -203,14 +203,6 @@ body.landing.menubar div {
     background-image: url(../images/mockup/1024.png);
   }
 
-  .full {
-    display: none;
-  }
-
-  .compact {
-    display: block;
-  }
-
   .mainSection {
     width: 1179px;
     height: 568px;
